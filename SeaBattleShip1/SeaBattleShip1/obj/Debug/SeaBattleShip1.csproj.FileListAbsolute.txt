@@ -1,0 +1,10 @@
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\bin\Debug\SeaBattleShip1.exe.config
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\bin\Debug\SeaBattleShip1.exe
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\bin\Debug\SeaBattleShip1.pdb
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\obj\Debug\SeaBattleShip1.csprojAssemblyReference.cache
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\obj\Debug\SeaBattleShip1.Form1.resources
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\obj\Debug\SeaBattleShip1.Properties.Resources.resources
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\obj\Debug\SeaBattleShip1.csproj.GenerateResource.cache
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\obj\Debug\SeaBattleShip1.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\obj\Debug\SeaBattleShip1.exe
+C:\Users\Hilal\Desktop\Bilge Adam - Yazılım Eğitim\Windows Forms App\Amiral Battı\SeaBattleShip1\SeaBattleShip1\obj\Debug\SeaBattleShip1.pdb
